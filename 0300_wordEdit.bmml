@@ -157,5 +157,13 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22331%2C149%2C633%2C180%22%20href%3D%220360_wordEditSelectTranslation.bmml%22%20alt%3D%220360_wordEditSelectTranslation%22%20id%3D%2228%22/%3E</map>
       </controlProperties>
     </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="390" y="431" w="178" h="34" measuredW="175" measuredH="30" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>0010_wordDetails%26bm%3B0010_wordDetails.bmml%26bm%3B0010_wordDetails.bmml%26bm%3B0010_wordDetails.bmml</href>
+        <icon>SaveIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C352%2C194%2C386%22%20href%3D%220010_wordDetails.bmml%22%20alt%3D%220010_wordDetails%22%20id%3D%2229%22/%3E</map>
+        <text>%u0421%u043E%u0445%u0440%u0430%u043D%u0438%u0442%u044C%20%u0438%u0437%u043C%u0435%u043D%u0435%u043D%u0438%u044F</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
