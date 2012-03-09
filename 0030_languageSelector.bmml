@@ -11,9 +11,9 @@
         <text>%u0421%u043B%u043E%u0432%u043E%5E%2C%20%u0422%u0440%u0430%u043D%u0441%u043A%u0440%u0438%u043F%u0446%u0438%u044F%0Aambigous%2C%20ambigous%0Ablinders%2C%20blinders%0Abuild%2C%20build%0Acat%2C%20cat%0Adog%2C%20dog%0Aencourage%2C%20encourage%0Aforget%2C%20forget%0Afortify%2C%20fortify%0Atribes%2C%20tribes%0Atable%2C%20table</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="903" y="112" w="128" h="-1" measuredW="97" measuredH="78" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="903" y="112" w="128" h="-1" measuredW="97" measuredH="94" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u0410%u043D%u0433%u043B%u0438%u0439%u0441%u043A%u0438%u0439%0A%u0410%u043D%u0433%u043B%u0438%u0439%u0441%u043A%u0438%u0439%0A%u041A%u0438%u0442%u0430%u0439%u0441%u043A%u0438%u0439%0A%u0418%u0437%u043C%u0435%u043D%u0438%u0442%u044C%20%u044F%u0437%u044B%u043A%u0438...</text>
+        <text>%u0410%u043D%u0433%u043B%u0438%u0439%u0441%u043A%u0438%u0439%0A%u0410%u043D%u0433%u043B%u0438%u0439%u0441%u043A%u0438%u0439%0A%u0420%u0443%u0441%u0441%u043A%u0438%u0439%0A%u041A%u0438%u0442%u0430%u0439%u0441%u043A%u0438%u0439%0A%u0418%u0437%u043C%u0435%u043D%u0438%u0442%u044C%20%u044F%u0437%u044B%u043A%u0438...</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="867" y="113" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
@@ -49,26 +49,26 @@
         <backgroundAlpha>0</backgroundAlpha>
         <borderColor>16777215</borderColor>
         <borderStyle>none</borderStyle>
-        <href>designerHome_0000%26bm%3BdesignerHome_0000.bmml%26bm%3BdesignerHome_0000.bmml%26bm%3BdesignerHome_0000.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C54%2C614%2C69%22%20href%3D%22designerHome_0000.bmml%22%20alt%3D%22designerHome_0000%22%20id%3D%229%22/%3E</map>
+        <href>0000_designerHome%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C54%2C614%2C69%22%20href%3D%220000_designerHome.bmml%22%20alt%3D%220000_designerHome%22%20id%3D%229%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="903" y="149" w="128" h="15" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="903" y="165" w="128" h="15" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderColor>16777215</borderColor>
         <borderStyle>none</borderStyle>
-        <href>chinese_0050%26bm%3Bchinese_0050.bmml%26bm%3Bchinese_0050.bmml%26bm%3Bchinese_0050.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C69%2C614%2C84%22%20href%3D%22chinese_0050.bmml%22%20alt%3D%22chinese_0050%22%20id%3D%2210%22/%3E</map>
+        <href>0050_chinese%26bm%3B0050_chinese.bmml%26bm%3B0050_chinese.bmml%26bm%3B0050_chinese.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C85%2C614%2C100%22%20href%3D%220050_chinese.bmml%22%20alt%3D%220050_chinese%22%20id%3D%2210%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="903" y="164" w="128" h="26" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="903" y="180" w="128" h="26" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderColor>16777215</borderColor>
         <borderStyle>none</borderStyle>
-        <href>languagesEdit_0100%26bm%3BlanguagesEdit_0100.bmml%26bm%3BlanguagesEdit_0100.bmml%26bm%3BlanguagesEdit_0100.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C84%2C614%2C110%22%20href%3D%22languagesEdit_0100.bmml%22%20alt%3D%22languagesEdit_0100%22%20id%3D%2211%22/%3E</map>
+        <href>0100_languagesEdit%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C100%2C614%2C126%22%20href%3D%220100_languagesEdit.bmml%22%20alt%3D%220100_languagesEdit%22%20id%3D%2211%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

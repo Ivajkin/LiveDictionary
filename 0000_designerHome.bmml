@@ -5,7 +5,7 @@
         <text>Dictionary%20Designer</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="432" y="141" w="214" h="304" measuredW="171" measuredH="325" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="432" y="141" w="214" h="304" measuredW="173" measuredH="325" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>-1</selectedIndex>
         <text>%u0421%u043B%u043E%u0432%u043E%5E%2C%20%u0422%u0440%u0430%u043D%u0441%u043A%u0440%u0438%u043F%u0446%u0438%u044F%0Aambigous%2C%20ambigous%0Ablinders%2C%20blinders%0Abuild%2C%20build%0Acat%2C%20cat%0Adog%2C%20dog%0Aencourage%2C%20encourage%0Aforget%2C%20forget%0Afortify%2C%20fortify%0Atribes%2C%20tribes%0Atable%2C%20table</text>
@@ -13,8 +13,8 @@
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="903" y="112" w="128" h="-1" measuredW="97" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>languageSelector_0030%26bm%3BlanguageSelector_0030.bmml%26bm%3BlanguageSelector_0030.bmml%26bm%3BlanguageSelector_0030.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C32%2C614%2C55%22%20href%3D%22languageSelector_0030.bmml%22%20alt%3D%22languageSelector_0030%22%20id%3D%223%22/%3E</map>
+        <href>0030_languageSelector%26bm%3B0030_languageSelector.bmml%26bm%3B0030_languageSelector.bmml%26bm%3B0030_languageSelector.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C32%2C614%2C55%22%20href%3D%220030_languageSelector.bmml%22%20alt%3D%220030_languageSelector%22%20id%3D%223%22/%3E</map>
         <text>%u0410%u043D%u0433%u043B%u0438%u0439%u0441%u043A%u0438%u0439</text>
       </controlProperties>
     </control>
@@ -25,13 +25,14 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="660" y="141" w="371" h="304" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
         <text>%u041F%u043E%u0434%u0440%u043E%u0431%u043D%u043E%3A</text>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::SearchBox" x="432" y="111" w="214" h="-1" measuredW="65" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>searchWord_0020%26bm%3BsearchWord_0020.bmml%26bm%3BsearchWord_0020.bmml%26bm%3BsearchWord_0020.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C31%2C229%2C56%22%20href%3D%22searchWord_0020.bmml%22%20alt%3D%22searchWord_0020%22%20id%3D%2210%22/%3E</map>
+        <href>0020_searchWord%26bm%3B0020_searchWord.bmml%26bm%3B0020_searchWord.bmml%26bm%3B0020_searchWord.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C31%2C229%2C56%22%20href%3D%220020_searchWord.bmml%22%20alt%3D%220020_searchWord%22%20id%3D%2210%22/%3E</map>
         <text>search</text>
       </controlProperties>
     </control>
@@ -46,16 +47,16 @@
         <backgroundAlpha>0</backgroundAlpha>
         <borderColor>16777215</borderColor>
         <borderStyle>none</borderStyle>
-        <href>wordDetails_0010%26bm%3BwordDetails_0010.bmml%26bm%3BwordDetails_0010.bmml%26bm%3BwordDetails_0010.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C83%2C229%2C113%22%20href%3D%22wordDetails_0010.bmml%22%20alt%3D%22wordDetails_0010%22%20id%3D%2212%22/%3E</map>
+        <href>0010_wordDetails%26bm%3B0010_wordDetails.bmml%26bm%3B0010_wordDetails.bmml%26bm%3B0010_wordDetails.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C83%2C229%2C113%22%20href%3D%220010_wordDetails.bmml%22%20alt%3D%220010_wordDetails%22%20id%3D%2212%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="660" y="111" w="-1" h="-1" measuredW="125" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>addWord_0080%26bm%3BaddWord_0080.bmml%26bm%3BaddWord_0080.bmml%26bm%3BaddWord_0080.bmml</href>
+        <href>0080_addWord%26bm%3B0080_addWord.bmml%26bm%3B0080_addWord.bmml%26bm%3B0080_addWord.bmml</href>
         <icon>AddPageIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C31%2C368%2C55%22%20href%3D%22addWord_0080.bmml%22%20alt%3D%22addWord_0080%22%20id%3D%2214%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C31%2C368%2C55%22%20href%3D%220080_addWord.bmml%22%20alt%3D%220080_addWord%22%20id%3D%2214%22/%3E</map>
         <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C%20%u0441%u043B%u043E%u0432%u043E</text>
       </controlProperties>
     </control>

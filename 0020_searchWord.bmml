@@ -5,7 +5,7 @@
         <text>Dictionary%20Designer</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="432" y="141" w="214" h="304" measuredW="155" measuredH="85" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="432" y="141" w="214" h="304" measuredW="157" measuredH="85" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>-1</selectedIndex>
         <text>%u0421%u043B%u043E%u0432%u043E%5E%2C%20%u0422%u0440%u0430%u043D%u0441%u043A%u0440%u0438%u043F%u0446%u0438%u044F%0Aforget%2C%20forget%0Afortify%2C%20fortify</text>
@@ -34,9 +34,9 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="623" y="115" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
-        <href>designerHome_0000%26bm%3BdesignerHome_0000.bmml%26bm%3BdesignerHome_0000.bmml%26bm%3BdesignerHome_0000.bmml</href>
+        <href>0000_designerHome%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml</href>
         <icon>CircledXIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C35%2C222%2C51%22%20href%3D%22designerHome_0000.bmml%22%20alt%3D%22designerHome_0000%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C35%2C222%2C51%22%20href%3D%220000_designerHome.bmml%22%20alt%3D%220000_designerHome%22%20id%3D%226%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="451" y="113" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
@@ -46,10 +46,8 @@
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="660" y="111" w="-1" h="-1" measuredW="125" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>addWord_0080%26bm%3BaddWord_0080.bmml%26bm%3BaddWord_0080.bmml%26bm%3BaddWord_0080.bmml</href>
         <icon>AddPageIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C31%2C368%2C55%22%20href%3D%22addWord_0080.bmml%22%20alt%3D%22addWord_0080%22%20id%3D%229%22/%3E</map>
         <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C%20%u0441%u043B%u043E%u0432%u043E</text>
       </controlProperties>
     </control>
