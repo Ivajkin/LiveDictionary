@@ -61,29 +61,31 @@
         <text>ambigous</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="874" y="193" w="139" h="237" measuredW="107" measuredH="85" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="670" y="163" w="343" h="-1" measuredW="78" measuredH="23" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>-1</selectedIndex>
-        <text>%u041F%u0435%u0440%u0435%u0432%u043E%u0434%0A%u043D%u0435%u043E%u0434%u043D%u043E%u0437%u043D%u0430%u0447%u043D%u044B%u0439%0A%u0434%u0432%u0443%u0441%u043C%u044B%u0441%u043B%u0435%u043D%u043D%u044B%u0439</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="670" y="163" w="343" h="-1" measuredW="78" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>languageSelector_0030%26bm%3BlanguageSelector_0030.bmml%26bm%3BlanguageSelector_0030.bmml%26bm%3BlanguageSelector_0030.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C83%2C596%2C106%22%20href%3D%22languageSelector_0030.bmml%22%20alt%3D%22languageSelector_0030%22%20id%3D%2213%22/%3E</map>
+        <href>0015_wordDetailsSelectLanguage%26bm%3B0015_wordDetailsSelectLanguage.bmml%26bm%3B0015_wordDetailsSelectLanguage.bmml%26bm%3B0015_wordDetailsSelectLanguage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C83%2C596%2C106%22%20href%3D%220015_wordDetailsSelectLanguage.bmml%22%20alt%3D%220015_wordDetailsSelectLanguage%22%20id%3D%2213%22/%3E</map>
         <text>%u0420%u0443%u0441%u0441%u043A%u0438%u0439</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="670" y="235" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="670" y="235" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <italic>false</italic>
         <text>*%u0421%u0438%u043D%u043E%u043D%u0438%u043C%u044B%3A*%20doubtful</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="670" y="256" w="200" h="39" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="670" y="256" w="200" h="39" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>*%u041F%u0435%u0440%u0435%u0432%u043E%u0434%20%28%u0440%u0443%u0441.%29%3A*%20%u043D%u0435%u043E%u0434%u043D%u043E%u0437%u043D%u0430%u0447%u043D%u044B%u0439%2C%0A%u0434%u0432%u0443%u0441%u043C%u044B%u0441%u043B%u0435%u043D%u043D%u044B%u0439</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="670" y="398" w="343" h="39" measuredW="151" measuredH="30" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>0300_wordEdit%26bm%3B0300_wordEdit.bmml%26bm%3B0300_wordEdit.bmml%26bm%3B0300_wordEdit.bmml</href>
+        <icon>PencilIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C318%2C596%2C357%22%20href%3D%220300_wordEdit.bmml%22%20alt%3D%220300_wordEdit%22%20id%3D%2219%22/%3E</map>
+        <text>%u0418%u0437%u043C%u0435%u043D%u0438%u0442%u044C%20%u0441%u043B%u043E%u0432%u043E...</text>
       </controlProperties>
     </control>
   </controls>
