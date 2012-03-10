@@ -68,13 +68,17 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="459" y="274" w="108" h="30" measuredW="112" measuredH="30" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>0100_languagesEdit%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml</href>
         <icon>SaveIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C231%2C166%2C261%22%20href%3D%220100_languagesEdit.bmml%22%20alt%3D%220100_languagesEdit%22%20id%3D%2212%22/%3E</map>
         <text>%u0421%u043E%u0445%u0440%u0430%u043D%u0438%u0442%u044C</text>
       </controlProperties>
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="596" y="274" w="112" h="30" measuredW="106" measuredH="30" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>0100_languagesEdit%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml%26bm%3B0100_languagesEdit.bmml</href>
         <icon>Trash2Icon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22195%2C231%2C307%2C261%22%20href%3D%220100_languagesEdit.bmml%22%20alt%3D%220100_languagesEdit%22%20id%3D%2213%22/%3E</map>
         <text>%u041E%u0442%u043C%u0435%u043D%u0438%u0442%u044C</text>
       </controlProperties>
     </control>

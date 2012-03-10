@@ -138,7 +138,9 @@
     </control>
     <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="704" y="416" w="106" h="34" measuredW="107" measuredH="30" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>0350_wordEditTranslationAdd%26bm%3B0350_wordEditTranslationAdd.bmml%26bm%3B0350_wordEditTranslationAdd.bmml%26bm%3B0350_wordEditTranslationAdd.bmml</href>
         <icon>AddPageIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22330%2C337%2C436%2C371%22%20href%3D%220350_wordEditTranslationAdd.bmml%22%20alt%3D%220350_wordEditTranslationAdd%22%20id%3D%2226%22/%3E</map>
         <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C</text>
       </controlProperties>
     </control>
