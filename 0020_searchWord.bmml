@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1046" measuredH="480" mockupW="629" mockupH="400">
+<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="480" mockupW="945" mockupH="451">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="417" y="80" w="629" h="400" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
@@ -36,7 +36,7 @@
         <color>0</color>
         <href>0000_designerHome%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml%26bm%3B0000_designerHome.bmml</href>
         <icon>CircledXIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C35%2C222%2C51%22%20href%3D%220000_designerHome.bmml%22%20alt%3D%220000_designerHome%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22384%2C86%2C400%2C102%22%20href%3D%220000_designerHome.bmml%22%20alt%3D%220000_designerHome%22%20id%3D%226%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="451" y="113" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
@@ -49,6 +49,48 @@
         <icon>AddPageIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
         <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C%20%u0441%u043B%u043E%u0432%u043E</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Tooltip" x="1001" y="121" w="158" h="71" measuredW="139" measuredH="71" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0412%u044B%u0431%u0440%u0430%u0442%u044C%20%u044F%u0437%u044B%u043A%20%u0441%u043B%u043E%u0432%u0430%u0440%u044F%20%u0434%u043B%u044F%20%u0441%u043B%u043E%u0432%20%u0441%u043B%u0435%u0432%u0430</text>
+        <tooltipDirection>NW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tooltip" x="736" y="50" w="158" h="71" measuredW="138" measuredH="71" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C%20%u0441%u043B%u043E%u0432%u043E%20%u0432%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Tooltip" x="507" y="50" w="132" h="71" measuredW="127" measuredH="71" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041E%u0442%u043C%u0435%u043D%u0438%u0442%u044C%20%u043F%u043E%u0438%u0441%u043A%20%28%u043F%u043E%u043A%u0430%u0437%u0430%u0442%u044C%20%u0432%u0441%u0435%29</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Tooltip" x="239" y="236" w="218" h="111" measuredW="216" measuredH="111" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041D%u0430%u0431%u043E%u0440%20%u0441%u043B%u043E%u0432%20%u0432%20%u0441%u043B%u043E%u0432%u0430%u0440%u0435%20%u0434%u043B%u044F%20%u0432%u044B%u0431%u0440%u0430%u043D%u043D%u043E%u0433%u043E%20%u044F%u0437%u044B%u043A%u0430%20%u0441%20%u0443%u043A%u0430%u0437%u0430%u043D%u0438%u0435%u043C%20%u0442%u0440%u0430%u043D%u0441%u043A%u0440%u0438%u043F%u0446%u0438%u0438</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HelpButton" x="1006" y="85" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="1026" y="86" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledXIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Tooltip" x="1026" y="29" w="158" h="62" measuredW="145" measuredH="62" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0417%u0430%u043A%u0440%u044B%u0442%u044C%20%u0440%u0435%u0434%u0430%u043A%u0442%u043E%u0440%20%u0441%u043B%u043E%u0432%u0430%u0440%u044F</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Tooltip" x="865" y="46" w="158" h="47" measuredW="136" measuredH="47" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041E%u0442%u043A%u0440%u044B%u0442%u044C%20%u0441%u043F%u0440%u0430%u0432%u043A%u0443</text>
+        <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
   </controls>

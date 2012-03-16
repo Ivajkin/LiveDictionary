@@ -129,5 +129,29 @@
         <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C</text>
       </controlProperties>
     </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Tooltip" x="732" y="162" w="125" h="51" measuredW="98" measuredH="51" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041D%u0430%u043F%u0438%u0441%u0430%u043D%u0438%u0435%20%u0441%u043B%u043E%u0432%u0430</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Tooltip" x="766" y="203" w="128" h="51" measuredW="117" measuredH="51" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0422%u0440%u0430%u043D%u0441%u043A%u0440%u0438%u043F%u0446%u0438%u044F%20%u043D%u0430%20%u043B%u0430%u0442%u0438%u043D%u0438%u0446%u0435</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Tooltip" x="800" y="242" w="125" h="51" measuredW="103" measuredH="51" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u042F%u0437%u044B%u043A%20%u0441%u043B%u043E%u0432%u0430</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Tooltip" x="822" y="269" w="149" h="60" measuredW="150" measuredH="60" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0414%u0430%u0442%u0430%20%u0434%u043E%u0431%u0430%u0432%u043B%u0435%u043D%u0438%u044F%20%u0432%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
